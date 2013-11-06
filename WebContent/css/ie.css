@@ -1,0 +1,9 @@
+.sf-menu > li,.row-1,.button,.list-1 li,.box-sh,.box-search{behavior: url(js/PIE.htc); position:relative;}
+.button{box-shadow:none}
+ #search input{		
+
+	padding:8px 13px 6px;
+
+
+	}
+body{min-width:980px;}
